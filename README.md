@@ -53,5 +53,5 @@ I'm a DevOps engineer with a passion for **Cloud Infrastructure**, **Automation*
 I believe in "automating all the things" — from personal tasks to large-scale cloud deployments!
 
 ## 💬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)]((https://www.linkedin.com/in/chidanand-mandolkar/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/chidanand-mandolkar/)
 
