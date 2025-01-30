@@ -1,6 +1,6 @@
-# Hi there, I'm Jane Doe! 👋
+# Hi there, I'm Chida! 👋
 
-I'm a DevOps engineer with a passion for **Cloud Infrastructure**, **Automation**, and **Continuous Delivery**. I love solving problems by building scalable, reliable systems.
+I'm a DevOps enthusiast passionate about Cloud Infrastructure, CI/CD, and automation. I love designing scalable systems, practicing Infrastructure-as-Code, and exploring new technologies to improve the developer workflow.
 
 ---
 
