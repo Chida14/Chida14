@@ -41,7 +41,7 @@ I'm a DevOps engineer with a passion for **Cloud Infrastructure**, **Automation*
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chida14&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Chida14&color=blueviolet)
 
 ---
 
