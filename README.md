@@ -50,6 +50,7 @@ I'm a DevOps enthusiast passionate about Cloud Infrastructure, CI/CD, and automa
 ---
 
 ## 🌱 Currently Learning
+- Monitoring and Observability
 - Exploring advanced Kubernetes operators
 - Setting up GitOps with Argo CD
 
