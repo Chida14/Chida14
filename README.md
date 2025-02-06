@@ -10,7 +10,8 @@ I'm a DevOps enthusiast passionate about Cloud Infrastructure, CI/CD, and automa
   ![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnu-bash&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 
-- **Cloud & Containers**:  
+- **Cloud & Containers**:
+  ![Azure](https://img.shields.io/badge/-Azure-333?style=flat&logo=microsoft-azure)
   ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
   ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
