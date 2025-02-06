@@ -25,6 +25,7 @@ I'm a DevOps enthusiast passionate about Cloud Infrastructure, CI/CD, and automa
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 ![Helm](https://img.shields.io/badge/-Helm-333?style=flat&logo=helm)
 ![Istio](https://img.shields.io/badge/-Istio-333?style=flat&logo=istio)
+![Argo CD](https://img.shields.io/badge/-Argo%20CD-333?style=flat&logo=argo)
 
 ---
 
