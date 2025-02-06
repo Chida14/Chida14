@@ -16,8 +16,11 @@ I'm a DevOps enthusiast passionate about Cloud Infrastructure, CI/CD, and automa
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
 
 - **DevOps Tools**:  
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat&logo=github-actions)
-  ![Terraform](https://img.shields.io/badge/-Terraform-333?style=flat&logo=terraform)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333?style=flat&logo=azure-devops)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![Terraform](https://img.shields.io/badge/-Terraform-333?style=flat&logo=terraform)
+![Prometheus](https://img.shields.io/badge/-Prometheus-333?style=flat&logo=prometheus)
+
 
 ---
 
@@ -26,8 +29,6 @@ I'm a DevOps enthusiast passionate about Cloud Infrastructure, CI/CD, and automa
 - [**Azure-Devops-CI-CD-A-simple-MicroSevices-App**](https://github.com/Chida14/Azure-Devops-CI-CD-A-simple-MicroSevices-App)  
   A sample project showcasing blue/green deployment strategies on Kubernetes using Helm and GitHub Actions.
 
-- [**terraform-aws-infra**](https://github.com/your-username/terraform-aws-infra)  
-  Infrastructure-as-Code templates to provision AWS resources for a scalable web application.
 
 ---
 
