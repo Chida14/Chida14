@@ -23,7 +23,7 @@ I'm a DevOps enthusiast passionate about Cloud Infrastructure, CI/CD, and automa
 
 ## 🚀 Featured Projects
 
-- [**k8s-blue-green-deployments**](https://github.com/your-username/k8s-blue-green-deployments)  
+- [**Azure-Devops-CI-CD-A-simple-MicroSevices-App**](https://github.com/Chida14/Azure-Devops-CI-CD-A-simple-MicroSevices-App)  
   A sample project showcasing blue/green deployment strategies on Kubernetes using Helm and GitHub Actions.
 
 - [**terraform-aws-infra**](https://github.com/your-username/terraform-aws-infra)  
