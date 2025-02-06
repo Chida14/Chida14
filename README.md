@@ -22,6 +22,7 @@ I'm a DevOps enthusiast passionate about Cloud Infrastructure, CI/CD, and automa
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Terraform](https://img.shields.io/badge/-Terraform-333?style=flat&logo=terraform)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-333?style=flat&logo=prometheus)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 
 
 ---
