@@ -1,6 +1,6 @@
 # Hi there, I'm Chida! 👋
 
-I'm a DevOps enthusiast passionate about Cloud Infrastructure, CI/CD, and automation. I love designing scalable systems, practicing Infrastructure-as-Code, and exploring new technologies to improve the developer workflow.
+I'm passionate about Cloud Infrastructure, CI/CD, and automation. I love designing scalable systems, practicing Infrastructure-as-Code, and exploring new technologies to improve the developer workflow.
 
 ---
 
