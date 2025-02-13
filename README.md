@@ -32,7 +32,7 @@ I'm passionate about Cloud Infrastructure, Devops, CI/CD, and automation. I love
 ## 🚀 Featured Projects
 
 - [**Azure-Devops-CI-CD-A-simple-MicroSevices-App**](https://github.com/Chida14/Azure-Devops-CI-CD-A-simple-MicroSevices-App)  
-  A sample project showcasing blue/green deployment strategies on Kubernetes using Helm and GitHub Actions.
+  A sample project showcasing deployment of a microservice application using Azure Devops (An end-to-end CI/CD)
 
 
 ---
